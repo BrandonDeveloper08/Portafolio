@@ -157,15 +157,15 @@ export const dataPortfolio = [
     {
         id: 1,
         title: "App Educativa",
-        image: "/image-1.jpg",
+        image: "/image-p.jpg",
         urlGithub: "#!",
-        urlDemo: "https://www.estudiala.com/",
+        urlDemo: "https://sanmarcosgo.com/",
     },
     {
         id: 2,
-        title: "Shopping Guitar",
+        title: "Tienda de Mochilas",
         image: "/image-2.jpg",
-        urlGithub: "https://github.com/BrandonDeveloper08/guitarla",
+        urlGithub: "#!",
         urlDemo: "https://guitarla-react-ts-reducers.netlify.app/",
     },
     {
@@ -208,7 +208,7 @@ export const dataPortfolio = [
         title: "App para Ligar",
         image: "/image-8.jpg",
         urlGithub: "#!",
-        urlDemo: "https://www.picanteai.com/",
+        urlDemo: "https://gileai.vercel.app/",
     }
 ];
 
